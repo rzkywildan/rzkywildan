@@ -1,5 +1,5 @@
 ## Task1
-import java.util.Scanner;
+mport java.util.Scanner;
 public class AreaOfRectangle {
    public static void main(String args[]){
       int length, breadth, area;
@@ -12,4 +12,3 @@ public class AreaOfRectangle {
       System.out.println("Area of the rectangle is ::"+area);
    }
 }
-
